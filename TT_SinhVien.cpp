@@ -225,5 +225,6 @@ void Print_Lop(List L)
 //k co sua gi ca time  4:10
 //thay doi lan thu N+1 time 4h21
 //test lan cuoi time 4h23
+//thay doi cuoi tme 4h30
 
 >>>>>>> 54a11b8a371b15fdbb1ede59fc4af3e5b50332a3
