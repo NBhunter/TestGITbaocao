@@ -219,4 +219,8 @@ void Print_Lop(List L)
 	}
 	Print_ds(L);
 }	
+<<<<<<< HEAD
 //k co sua gi ca time  4:07
+=======
+//k co sua gi ca time  4:10
+>>>>>>> 54a11b8a371b15fdbb1ede59fc4af3e5b50332a3
