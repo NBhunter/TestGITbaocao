@@ -54,6 +54,7 @@ int main()
 	Print_ds(dssv);
 	printf("\n\n in danh sach theo lop\n");
 	Print_Lop(dssv);
+	printf ("da chay duoc");
 	getch();
 	return 1;
 } 
